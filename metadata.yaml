@@ -1,0 +1,33 @@
+_repo: Ein-Volk-in-Waffen_53662
+_version: 0.0.1
+alternative_title: Från fronten i väster. German
+creator:
+  author:
+    agent_name: Hedin, Sven Anders
+    aliases:
+    - Khedin, Sven Anders
+    - Gedin, Sven
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '9475'
+    url: http://www.gutenberg.org/2009/agents/9475
+description: ''
+gutenberg_issued: '2016-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53662'
+  lccn: '16017712'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany. Heer -- History -- World War, 1914-1918'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front -- Personal narratives,
+  Swedish'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Swedish'
+- GITenberg
+title: Ein Volk in Waffen
+url: http://www.gutenberg.org/ebooks/53662
